@@ -1,0 +1,57 @@
+.btn-logo{
+    height: 16pt;
+    width:16pt;
+    margin-right: 5pt;
+    margin-left: -5pt;
+    margin-top:auto;
+    margin-bottom: auto;
+}
+
+.prods{
+    background-color:#f8f8f9;
+    box-shadow: #444 1px 1px 4px;
+    color:#444;
+}
+
+.prods address .prod_head{
+    font-weight: 600;
+    font-size: 14pt;
+}
+
+.prods address .side-li{
+    box-shadow: #444 1px 1px 2px;
+    padding-top:6pt;
+    padding-bottom: 2pt;
+}
+
+.prods address .side-li .side-icon{
+    margin-top:8.5pt;
+    margin-bottom: 5pt;
+    margin-left: 10pt;
+}
+
+.prods .side-li div ul{
+    list-style: none;
+    margin-top:5pt;
+    margin-left: -10pt;
+    margin-bottom:5pt;
+}
+
+.prods .side-li div ul a :hover{
+    color:red;
+}
+
+.prods address .side-li ul a{
+    font-weight: 400;
+    color:#444;
+    font-size: 10pt;
+    opacity: 0.85;
+}
+
+.prods address .side-li ul a :hover{
+    color:yellow;
+}
+
+.prods .form-area{
+    position: absolute;
+}

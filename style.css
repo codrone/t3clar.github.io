@@ -898,18 +898,18 @@ preloader
 }
 
 .sk-folding-cube .sk-cube2:before {
+    -webkit-animation-delay: 0.1s;
+    animation-delay: 0.1s;
+}
+
+.sk-folding-cube .sk-cube3:before {
     -webkit-animation-delay: 0.3s;
     animation-delay: 0.3s;
 }
 
-.sk-folding-cube .sk-cube3:before {
+.sk-folding-cube .sk-cube4:before {
     -webkit-animation-delay: 0.6s;
     animation-delay: 0.6s;
-}
-
-.sk-folding-cube .sk-cube4:before {
-    -webkit-animation-delay: 0.9s;
-    animation-delay: 0.9s;
 }
 
 @-webkit-keyframes sk-foldCubeAngle {
